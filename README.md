@@ -14,6 +14,6 @@ I'm Spencer! I'm a freshman, tech major at <b><a href="https://www.args.us/" tar
 </p>
 
 ### 📊 &nbsp;Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=sjmccurry&count_private=true&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=sjmccurry&count_private=true&show_icons=true)
 
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sjmccurry&theme=dark)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sjmccurry)
