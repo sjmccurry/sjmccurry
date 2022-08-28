@@ -1,8 +1,9 @@
-<h1>Hey!</h1>
+# Hey!
 
+![](https://komarev.com/ghpvc/?username=sjmccurry)
 
-<p>Welcome to my page! </br> I'm Spencer! I'm a freshman, tech major at <b><a href="https://www.args.us/" target="_blank">ARGS</a></b>.</p>
-<h3>Things I code with</h3>
+I'm Spencer! I'm a freshman, tech major at <b><a href="https://www.args.us/" target="_blank">ARGS</a></b>.</p>
+### 🛠 &nbsp;Languages / Tools:
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
@@ -12,4 +13,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h3></h3>
+### 📊 &nbsp;Stats:
+![Stats](https://github-readme-stats.vercel.app/api?username=b8ff&count_private=true&show_icons=true&theme=dark)
+
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=b8ff&theme=dark)
