@@ -3,7 +3,6 @@ Hi 👋 My name is Spencer
 
 ![](https://komarev.com/ghpvc/?username=sjmccurry)
 
-I'm Spencer! I'm a freshman, tech major at <b><a href="https://www.args.us/" target="_blank">ARGS</a></b>.</p>
 ### 🛠 &nbsp;Languages / Tools:
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-156401?style=flat-square&logo=Python&logoColor=white" />
