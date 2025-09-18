@@ -2,8 +2,6 @@ Spencer McCurry
 ----
 
 ![](https://komarev.com/ghpvc/?username=sjmccurry)
-
-### 🛠 &nbsp;Languages / Tools:
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-156401?style=flat-square&logo=Python&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
