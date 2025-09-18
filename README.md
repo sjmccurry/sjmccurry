@@ -1,6 +1,3 @@
-Spencer McCurry
-----
-
 ![](https://komarev.com/ghpvc/?username=sjmccurry)
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-156401?style=flat-square&logo=Python&logoColor=white" />
